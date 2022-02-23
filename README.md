@@ -3,3 +3,5 @@
 [Instructional video](https://youtu.be/woxra7cNaiU)
 
 Grove Beginner Kit for Arduino
+
+This example shows how to get data from the barometer sensor
