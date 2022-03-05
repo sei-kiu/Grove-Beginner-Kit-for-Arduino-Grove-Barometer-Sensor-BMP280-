@@ -4,4 +4,4 @@
 
 Grove Beginner Kit for Arduino
 
-This example shows how to get data from the barometer sensor
+This example shows how to get data from the barometer sensor and display to the serial port.
